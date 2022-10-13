@@ -4,7 +4,7 @@ import random
 
 
 # -------------------------------- Show Saved Passwords ----------------------------------#
-PASSWORD = "abc"
+PASSWORD = "abcd"
 
 
 def show_list():
